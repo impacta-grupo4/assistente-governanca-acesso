@@ -1,0 +1,11 @@
+# Segredos: nunca versionar chaves de API
+.env
+*.env
+
+# Arquivos gerados na execucao
+cache_eval.json
+.ipynb_checkpoints/
+__pycache__/
+
+# Copias automaticas do app do Claude
+Claude outputs/
