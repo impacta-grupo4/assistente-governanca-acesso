@@ -138,4 +138,4 @@ O grupo usou o Claude (Anthropic) como assistente de desenvolvimento: para gerar
 
 ## Integrantes
 
-[preencher]
+Fernando Samico, Guilherme Brunholi, Fernando Batista, Keyzer Roberto e Paulo Emilio Richerme.
